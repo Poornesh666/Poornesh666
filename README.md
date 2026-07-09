@@ -24,7 +24,7 @@
 
 # About Me
 
-Hi! I'm **Poornesh Ganji**, an Integrated M.Tech Software Engineering student at **VIT Vellore**.
+Hi! I'm **Poornesh**, an Integrated M.Tech Software Engineering student at **VIT Vellore**.
 
 I enjoy building backend systems and AI-powered applications using Python. My recent work focuses on Retrieval-Augmented Generation (RAG), FastAPI, machine learning, and data-driven software. I'm currently strengthening my DSA, backend development, Docker, and cloud fundamentals for software engineering internships.
 
