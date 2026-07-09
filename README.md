@@ -31,7 +31,7 @@ I enjoy building backend systems and AI-powered applications using Python. My re
 - 🎓 Integrated M.Tech, Software Engineering
 - 📍 Vellore, India
 - 💡 Working towards AI, ML & Deep Learning with Python Backend Exposure
-- 💼 Open to Software Engineering Internships
+- 💼 Open to Software Engineering Roles
 
 ---
 
