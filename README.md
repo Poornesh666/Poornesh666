@@ -148,9 +148,6 @@ Practicing:
 
 ---
 
-# Snake Animation
-
-html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Poornesh666/Poornesh666/output/github-contribution-grid-snake-dark.svg"/>
 </p>
