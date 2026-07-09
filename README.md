@@ -30,8 +30,7 @@ I enjoy building backend systems and AI-powered applications using Python. My re
 
 - 🎓 Integrated M.Tech, Software Engineering
 - 📍 Vellore, India
-- 💡 Interested in Backend Development, AI Applications and Full Stack Development
-- 🌱 Currently learning System Design, Docker and AWS
+- 💡 Interested in AI, ML & Deep Learning with Python Backend Exposure
 - 💼 Open to Software Engineering Internships
 
 ---
@@ -151,13 +150,11 @@ Practicing:
 
 # Snake Animation
 
-After creating the GitHub Action, uncomment this:
-
-```html
+html
 <p align="center">
   <img src="https://raw.githubusercontent.com/Poornesh666/Poornesh666/output/github-contribution-grid-snake-dark.svg"/>
 </p>
-```
+
 
 ---
 
