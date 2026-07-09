@@ -1,21 +1,22 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=6C63FF&text=Poornesh%20Ganji&fontColor=ffffff&fontSize=45&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=7F5AF0&text=Poornesh%20Ganji&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=700&lines=Software+Engineering+Student;AI+%7C+ML+Enthusiast;Full+Stack+Developer;Building+Projects+That+Solve+Problems"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Developer;Building+AI-powered+Applications;Open+to+Software+Engineering+Internships"/>
 
-![](https://img.shields.io/badge/VIT-Vellore-6C63FF?style=for-the-badge)
-![](https://img.shields.io/badge/Integrated-M.Tech-7C3AED?style=for-the-badge)
-![](https://img.shields.io/badge/Location-Vellore,%20India-5B21B6?style=for-the-badge)
+<p>
+  <a href="https://github.com/Poornesh666"><img src="https://img.shields.io/badge/GitHub-Poornesh666-181717?style=for-the-badge&logo=github"/></a>
+  <a href="https://www.linkedin.com/in/poornesh-ganji-244514274/"><img src="https://img.shields.io/badge/LinkedIn-Poornesh%20Ganji-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+  <a href="mailto:poornesh.ganji3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
+</p>
 
-<a href="https://www.linkedin.com/in/poornesh-ganji-244514274/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="mailto:poornesh.ganji3@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail"/></a>
-<a href="https://github.com/Poornesh666"><img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/></a>
-
-![](https://komarev.com/ghpvc/?username=Poornesh666&style=for-the-badge&color=7C3AED)
-![](https://img.shields.io/github/followers/Poornesh666?style=for-the-badge)
-![](https://img.shields.io/github/stars/Poornesh666?affiliations=OWNER&style=for-the-badge)
+<p>
+<img src="https://img.shields.io/badge/VIT-Vellore-6D28D9?style=flat-square"/>
+<img src="https://img.shields.io/badge/CGPA-9.51%2F10-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Open%20To-Internships-8B5CF6?style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Poornesh666&style=flat-square&color=7C3AED"/>
+</p>
 
 </div>
 
@@ -23,19 +24,15 @@
 
 # About Me
 
-I'm **Poornesh Ganji**, an Integrated M.Tech Software Engineering student at **VIT Vellore**.
+Hi! I'm **Poornesh Ganji**, an Integrated M.Tech Software Engineering student at **VIT Vellore**.
 
-I enjoy building software that solves real problems. My main interests are **AI/ML, Full Stack Development, Backend Engineering, and Product Development**.
+I enjoy building backend systems and AI-powered applications using Python. My recent work focuses on Retrieval-Augmented Generation (RAG), FastAPI, machine learning, and data-driven software. I'm currently strengthening my DSA, backend development, Docker, and cloud fundamentals for software engineering internships.
 
-I like writing clean code, learning new technologies, and improving my problem-solving skills through projects and DSA.
-
-### Open To
-
-- Software Engineering Internships
-- AI/ML Projects
-- Backend Development
-- Full Stack Development
-- Open Source Collaboration
+- 🎓 Integrated M.Tech, Software Engineering
+- 📍 Vellore, India
+- 💡 Interested in Backend Development, AI Applications and Full Stack Development
+- 🌱 Currently learning System Design, Docker and AWS
+- 💼 Open to Software Engineering Internships
 
 ---
 
@@ -44,198 +41,65 @@ I like writing clean code, learning new technologies, and improving my problem-s
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,typescript,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,r,sql"/>
 </p>
 
-### Frontend
+### Backend & AI
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind"/>
+<img src="https://skillicons.dev/icons?i=fastapi,tensorflow,pytorch"/>
+<img src="https://img.shields.io/badge/LangChain-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/HuggingFace-FCC624?style=flat-square"/>
 </p>
 
-### Backend & Databases
+### Database & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mysql,postgres,mongodb"/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,linux"/>
 </p>
-
-### Cloud, DevOps & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=docker,git,github,vscode,linux"/>
-</p>
-
----
-
-# AI / ML Expertise
-
-| Domain | Proficiency | Details |
-|----------|------------|---------|
-| Machine Learning | Intermediate | Model training and evaluation |
-| NLP | Intermediate | RAG, embeddings, LLM workflows |
-| Deep Learning | Learning | Neural network fundamentals |
-| Data Analysis | Intermediate | Python, Pandas, NumPy |
-| Backend AI | Intermediate | FastAPI based AI applications |
 
 ---
 
 # Featured Projects
 
-<details>
-<summary><b>RAG Chatbot</b></summary>
+## 🚀 Enterprise RAG Knowledge Assistant
 
-AI chatbot that answers questions using Retrieval Augmented Generation.
+- FastAPI based Retrieval-Augmented Generation application
+- Supports PDF and DOCX document ingestion
+- Citation-aware responses and conversation memory
+- Built using LangChain and ChromaDB
 
-| Category | Details |
-|-----------|---------|
-| Stack | Python, FastAPI, LLMs |
-| Scale | Document Search |
-| Performance | Fast Retrieval |
-| Security | Input Validation |
-| Impact | Better document understanding |
-| Repository | https://github.com/Poornesh666 |
-
-</details>
-
-<details>
-<summary><b>AI Calorie Estimator</b></summary>
-
-Food calorie estimation using AI with deployment support.
-
-| Category | Details |
-|-----------|---------|
-| Stack | Python, AI |
-| Scale | Image Based |
-| Performance | Lightweight |
-| Security | API Validation |
-| Impact | Health Assistant |
-| Repository | https://github.com/Poornesh666 |
-
-</details>
-
-<details>
-<summary><b>AMR Analysis in R</b></summary>
-
-Data analysis project for antimicrobial resistance using R.
-
-| Category | Details |
-|-----------|---------|
-| Stack | R |
-| Scale | Research |
-| Performance | Statistical Analysis |
-| Security | Clean Dataset |
-| Impact | Healthcare Insights |
-| Repository | https://github.com/Poornesh666 |
-
-</details>
-
-<details>
-<summary><b>Anime Friend</b></summary>
-
-Anime recommendation web application. Future updates include social media API support.
-
-| Category | Details |
-|-----------|---------|
-| Stack | React |
-| Scale | Web App |
-| Performance | Responsive UI |
-| Security | Modern Practices |
-| Impact | Better User Experience |
-| Repository | https://github.com/Poornesh666 |
-
-</details>
+**Tech:** Python • FastAPI • LangChain • ChromaDB
 
 ---
 
-# Experience
+## 🔥 Calorie Burn Prediction
 
-### Software Engineering Student
-**VIT Vellore**
+- Neural network model trained on 15k+ records
+- Predicts calories burned from activity data
+- Built using TensorFlow and Keras
 
-- Building full stack projects
-- Learning AI and backend development
-- Practicing DSA regularly
-- Working on real-world applications
-
-**Skills:** `Python` `Java` `FastAPI` `React` `AI` `Git`
+**Tech:** Python • TensorFlow • Keras • Pandas
 
 ---
 
-# Achievements
+## 📊 AMR Trend Analysis
 
-| Recognition | Details |
-|-------------|---------|
-| DSA | Regular NeetCode practice |
-| AI Projects | Multiple AI applications |
-| Full Stack | End-to-end web development |
-| Continuous Learning | Software Engineering and AI |
+- Statistical analysis of antimicrobial resistance trends
+- Interactive dashboard built in R Shiny
+- Linear mixed-effects modelling
 
----
-
-# Certifications
-
-### AWS
-
-![](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
-
-### Oracle
-
-![](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
-
-### Cisco
-
-![](https://img.shields.io/badge/Cisco-Learning-1BA0D7?style=for-the-badge&logo=cisco)
-
-### NPTEL
-
-![](https://img.shields.io/badge/NPTEL-Courses-blue?style=for-the-badge)
+**Tech:** R • Shiny • lme4
 
 ---
 
-# Coding Profiles
+## 🎌 Anime Friend
 
-[![GitHub](https://img.shields.io/badge/GitHub-Poornesh666-181717?style=for-the-badge&logo=github)](https://github.com/Poornesh666)
+- Anime recommendation web application
+- Responsive React interface
+- Backend APIs planned for future updates
 
-[![NeetCode](https://img.shields.io/badge/NeetCode-Submissions-7C3AED?style=for-the-badge)](https://github.com/Poornesh666/neetcode-submissions)
-
----
-
-# GitHub Analytics
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Poornesh666&show_icons=true&theme=tokyonight)
-
-![](https://streak-stats.demolab.com?user=Poornesh666&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornesh666&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=Poornesh666&theme=tokyonight&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-# Contribution Activity
-
-![](https://github-readme-activity-graph.vercel.app/graph?username=Poornesh666&theme=tokyo-night)
-
----
-
-# Contribution Snake
-
-```text
-Add this GitHub Action later:
-Platane/snk
-```
+**Tech:** React • JavaScript
 
 ---
 
@@ -243,36 +107,69 @@ Platane/snk
 
 ```yaml
 Learning:
+  - Backend Engineering
   - System Design
-  - Machine Learning
-  - Backend Development
+  - Docker
+  - AWS
 
 Building:
-  - RAG Chatbot
-  - AI Calorie Estimator
-  - Anime Friend
+  - Enterprise RAG Assistant
+  - Anime Friend Backend APIs
 
-Exploring:
-  - LLMs
-  - Docker
-  - Cloud
+Practicing:
+  - DSA
+  - Core CS Subjects
+```
 
-Open To:
-  - Internship Opportunities
-  - Open Source
-  - Software Engineering Roles
+---
+
+# Coding
+
+- 💻 NeetCode: https://github.com/Poornesh666/neetcode-submissions
+
+---
+
+# GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Poornesh666&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Poornesh666&layout=compact&theme=tokyonight&hide_border=true)
+
+![](https://streak-stats.demolab.com?user=Poornesh666&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+# Contribution Graph
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=Poornesh666&theme=tokyo-night)
+
+---
+
+# Snake Animation
+
+After creating the GitHub Action, uncomment this:
+
+```html
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Poornesh666/Poornesh666/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 ```
 
 ---
 
 # Connect
 
-- Email: poornesh.ganji3@gmail.com
-- LinkedIn: https://www.linkedin.com/in/poornesh-ganji-244514274/
-- GitHub: https://github.com/Poornesh666
+- 📧 **Email:** poornesh.ganji3@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/poornesh-ganji-244514274/
+- 💻 **GitHub:** https://github.com/Poornesh666
 
 ---
 
-> "Build useful software. Keep learning. Stay consistent."
+> *"Keep building. Keep learning. Stay consistent."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=6C63FF"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=7F5AF0"/>
+
