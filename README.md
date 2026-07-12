@@ -3,7 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=7F5AF0&text=Poornesh%20Ganji&fontColor=ffffff&fontSize=42&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Developer;Building+AI-powered+Applications;Open+to+Software+Engineering+Internships"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Software+Engineering+Student;Backend+Developer;Building+AI-powered+Applications;Open+to+Software+Engineering+Work"/>
 
 <p>
   <a href="https://github.com/Poornesh666"><img src="https://img.shields.io/badge/GitHub-Poornesh666-181717?style=for-the-badge&logo=github"/></a>
