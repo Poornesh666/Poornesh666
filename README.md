@@ -40,7 +40,7 @@ I enjoy building backend systems and AI-powered applications using Python. My re
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c++,r,sql"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,r,sql"/>
 </p>
 
 ### Backend & AI
